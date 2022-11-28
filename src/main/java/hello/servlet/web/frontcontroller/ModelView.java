@@ -1,10 +1,5 @@
 package hello.servlet.web.frontcontroller;
 
-<<<<<<< HEAD
-=======
-import hello.servlet.domain.member.Member;
-
->>>>>>> 2fa1f7c (Initial commit)
 import java.util.HashMap;
 import java.util.Map;
 
